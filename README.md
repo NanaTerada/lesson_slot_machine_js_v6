@@ -8,5 +8,6 @@ JavaScriptでスロットマシンを作ろう
 JavaScriptでスロットマシンを作る方法を学んでいきます。
 
 ### URL
+https://github.com/NanaTerada/lesson_slot_machine_js_v6.git
 
 ### メモ
