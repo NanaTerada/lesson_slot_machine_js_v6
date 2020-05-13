@@ -37,4 +37,18 @@ main{
     user-select: none;
 }
 
+#spin{
+    cursor: pointer;
+    width: 270px;
+    height: 36px;
+    background: #3498db;
+    box-shadow: 0 4px #2880d9;
+    border-radius: 16px;
+    line-height: 36px;
+    text-align: center;
+    color: #fff;
+    user-select: none;
+    margin: 0 auto;
 }
+
+
