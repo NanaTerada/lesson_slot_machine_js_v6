@@ -1,6 +1,6 @@
 # lesson_slot_machine_js_v6
 
-JavaScriptでスロットマシンを作ろう
+JavaScriptでスロットマシンを作ろう（全13回）
 
 ===
 
